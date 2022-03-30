@@ -1,0 +1,11 @@
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+<<<<<<< .merge_file_kbDll9
+- HTML
+- CSS
+=======
+Python
+>>>>>>> .merge_file_Nv7X1c
